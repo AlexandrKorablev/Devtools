@@ -3,4 +3,4 @@
 
 _Копируем Fetch._
 
-![Копируем Fetch](https://github.com/AlexandrKorablev/Devtools/commit/896d6fc4499b14c59ba388b904568c1ef9afc1c8)
+![Копируем Fetch]([https://github.com/AlexandrKorablev/Devtools/commit/896d6fc4499b14c59ba388b904568c1ef9afc1c8](https://github.com/AlexandrKorablev/Devtools/blob/main/1.png))
